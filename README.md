@@ -1,0 +1,7 @@
+This repository was used to complete a Criminal Justice Master's Thesis at the University of Mississippi. 
+
+Contained within the repository is code that scraps two incel-specific forums; incels.is and Reddit's r/ForeverAlone.
+The code and collected data are being made public by the researcher.
+------------
+The purpose of this research is stated in the abstract below:
+  *Incels are an online community characterized by shared negative perspectives concerning masculinity, women, and societal norms. Platforms such as Twitter and Reddit have implemented content moderation measures aimed at curtailing the dissemination of incels' ideologies, which often promote violence and suicidal ideation. To observe the influence of content moderation on incel discourse, this study examined posts from two distinct incel forums: one subject to moderation and another without such restrictions. Employing thematic analysis, common themes within the posts were identified, and the occurrence of negative language was quantitatively assessed. Findings revealed that the moderated forum exhibited a higher prevalence of negative language compared to its unmoderated counterpart, thereby raising questions regarding the efficacy of content moderation strategies in mitigating the dissemination of harmful ideologies within online communities. The additional findings from the thematic analysis offer intriguing and innovative perspectives into the shared themes among forums, as well as the distinct themes that are exclusive to the unmoderated forum.* 
